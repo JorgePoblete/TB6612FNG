@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For TB6612FNG
+#######################################
+
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+TB6612FNG.h		KEYWORD1
+TB6612FNG		KEYWORD1
+Motor			KEYWORD1
+Direction		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setStandByPin	KEYWORD2
+setMotor		KEYWORD2
+enableMotors	KEYWORD2
+disableMotors	KEYWORD2
+spinMotor		KEYWORD2
+stopMotor		KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+motor_a			LITERAL1
+motor_b			LITERAL1
+direction_cw	LITERAL1
+direction_ccw	LITERAL1
+pwm				LITERAL1
+in1				LITERAL1
+in2				LITERAL1
